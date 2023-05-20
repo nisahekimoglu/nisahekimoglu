@@ -1,10 +1,7 @@
 ### Hi there I'm Nisa 👋
 
-<h2 align="center">Hi 👋! I'm Nisa <br> I'm an engineer candidate devoted to self-development from Turkey🇹🇷</h2>
 
-###
-
-<img align="right" height="150" src="https://giphy.com/gifs/shecodesio-swipe-up-computer-congratulations-EcqCKYnrHiAgwpGqme"  />
+<h4 align="center">I'm an engineer candidate devoted to self-development from Turkey🇹🇷</h4>
 
 ###
 
